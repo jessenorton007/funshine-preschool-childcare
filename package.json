@@ -1,0 +1,8 @@
+{
+  "name": "funshine-preschool-childcare",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A joyful, responsive preschool and childcare website for Funshine in Cedar City.",
+  "scripts": { "start": "node server.mjs", "check": "node --check app.js" },
+  "engines": { "node": ">=18" }
+}
